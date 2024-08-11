@@ -1,0 +1,28 @@
+<svg width="40.000000" height="40.000000" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip2_71">
+			<rect id="Icon" rx="19.500000" width="39.000000" height="39.000000" transform="translate(0.500000 0.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip2_71)">
+		<path id="Vector" d="M12.99 30C10.99 30 9.99 29 9.99 27L9.99 19C9.99 17 10.99 16 12.99 16L17.99 16L17.99 27C17.99 29 18.99 30 20.99 30L12.99 30Z" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round"/>
+		<g opacity="0.500000">
+			<path id="Vector" d="M17.99 12.99L17.99 15.99L12.99 15.99L12.99 13.99C12.99 12.89 13.89 11.99 14.99 11.99L18.1 11.99C18.02 12.29 17.99 12.62 17.99 12.99Z" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round"/>
+		</g>
+		<g opacity="0.500000">
+			<path id="Vector" d="M21.99 16L21.99 21" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round" stroke-linecap="round"/>
+		</g>
+		<g opacity="0.500000">
+			<path id="Vector" d="M26 16L26 21" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round" stroke-linecap="round"/>
+		</g>
+		<path id="Vector" d="M22.99 25C22.44 25 21.99 25.45 21.99 26L21.99 30L25.99 30L25.99 26C25.99 25.45 25.54 25 24.99 25L22.99 25Z" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round"/>
+		<g opacity="0.500000">
+			<path id="Vector" d="M14 20.99L14 24.99" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round" stroke-linecap="round"/>
+		</g>
+		<path id="Vector" d="M18 13C18 11 19 10 21 10L27 10C29 10 30 11 30 13L30 27C30 29 29 30 27 30L21 30C19 30 18 29 18 27L18 13Z" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round"/>
+		<g opacity="0.000000"/>
+	</g>
+</svg>
